@@ -25,7 +25,7 @@ import java.awt.event.ActionListener;
 
 
 
-public class Main {
+public class GUI {
 
 
     public static void main(String[] args) {
